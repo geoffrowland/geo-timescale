@@ -1,5 +1,7 @@
 # geo-timescale
 
+Demo: https://geoffrowland.github.io/geo-timescale/
+
 [![npm version](https://badge.fury.io/js/@macrostrat%2Fd3-timescale.svg)](https://www.npmjs.com/package/@macrostrat/d3-timescale)
 
 A modular D3.js-based geologic time scale that utilizes data from the [Paleobiology Database](http://paleobiodb.org).
